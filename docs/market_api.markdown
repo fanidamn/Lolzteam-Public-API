@@ -306,7 +306,7 @@ Parameters:
  * N/A
 
 ### POST `/market/:itemId/star/`
-Adds account from favourites
+Adds account to favourites
 
 Parameters:
  * N/A
