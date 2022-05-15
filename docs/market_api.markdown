@@ -351,7 +351,7 @@ Change settings about your profile on the market
 Parameters:
 
  * `disable_steam_guard` (_optional_) (Boolean) Disable Steam Guard on account purchase moment
- * `user_allow_ask_discount` (_optional_) (Boolean) Allow users ask discount for your accounts
+ * `user_allow_ask_discount` (_optional_) (Integer) Allow users ask discount for your accounts / 0 - false / 1 - true
  * `max_discount_percent` (_optional_) (UInt) Maximum discount percents for your accounts
  * `allow_accept_accounts` (_optional_) (String) Usernames who can transfer market accounts to you. Separate values with a comma.
  * `hide_favourites` (_optional_) (Boolean) Hide your profile info when you add an account to favorites
